@@ -10,7 +10,8 @@ https://developer.wordpress.org/cli/commands/
 
 - [Regenerate thumbnails](#regenerate-thumbnails)
 - [Empty things](#empty-things)
-- [Activate & Deactivate](#activate-and-deactivate)
+- [Plugins](#plugins)
+- [Themes](#themes)
 - [Search & Replace](#search-and-replace)
 
 
@@ -21,9 +22,13 @@ https://developer.wordpress.org/cli/commands/
 # Empty things:
 ```wp site empty --yes``` - this will remove all posts, pages, comments
 
-# Activate and Deactivate
+# Plugins
 ```wp plugin activate PLUGINNAME```
 ```wp plugin deactivate --all``` - this will deactivate all plugins
+
+# Themes 
+```wp theme activate```
+```wp theme list```
 
 
 # Search and Replace 
