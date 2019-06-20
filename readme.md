@@ -20,7 +20,7 @@ https://developer.wordpress.org/cli/commands/
 ```wp media regenerate --yes``` - this will regenerate all thumbnails (sizes)
 
 # Empty things:
-```wp site empty --yes``` - this will remove all posts, pages, comments
+```wp site empty --yes``` - this will remove all posts, pages, media and comments
 
 # Plugins
 ```wp plugin activate PLUGINNAME```
