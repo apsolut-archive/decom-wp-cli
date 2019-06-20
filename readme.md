@@ -9,6 +9,7 @@ decom wp cli
 
 - [Regenerate thumbnails](#regenerate-thumbnails)
 - [Empty things](#empty-things)
+- [Activate & Deactivate](#activate-and-deactivate)
 
 
 
@@ -18,6 +19,9 @@ decom wp cli
 # Empty things:
 ```wp site empty --yes``` - this will remove all posts, pages, comments
 
+#Activate and Deactivate
+```wp plugin activate PLUGINNAME```
+```wp plugin deactivate --all``` - this will deactivate all plugins
 
 
 # To Explore
