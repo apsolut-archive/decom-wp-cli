@@ -24,6 +24,7 @@ https://developer.wordpress.org/cli/commands/
 
 # Plugins
 ```wp plugin activate PLUGINNAME```
+
 ```wp plugin deactivate --all``` - this will deactivate all plugins
 
 # Themes 
